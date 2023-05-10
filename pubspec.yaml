@@ -31,9 +31,9 @@ dependencies:
   flutter:
     sdk: flutter
   introduction_screen: ^3.1.2
-  cloud_firestore:
-  firebase_auth:
-  firebase_core:
+  cloud_firestore: 4.4.3
+  firebase_auth: 4.2.9
+  firebase_core: 2.7.0
   geocoding:
   geolocator:
   google_maps_flutter: ^2.2.5
@@ -44,7 +44,9 @@ dependencies:
   flashy_tab_bar2: ^0.0.6
   font_awesome_flutter: ^10.4.0
   sliding_switch: ^1.1.0
-
+  pinput: ^2.2.31
+  calendar_appbar: ^0.0.6
+  intl: ^0.17.0
 
 
 
